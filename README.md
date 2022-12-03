@@ -6,7 +6,7 @@ Inspired by this [@TheInspiroBot](https://twitter.com/theinspirobot) on the Bird
 
 Pretty simple: the bot toots a random inspirational quote hourly from [InspiroBot.me](https://inspirobot.me) to the Fediverse through my personal Mastodon instance [cfultz.com](https://cfultz.com).
 
-![I mean, the bot isnt wrong](created_image.png)
+![I mean, the bot isnt wrong](created_image.jpeg)
 
 ## What's it need?
 
