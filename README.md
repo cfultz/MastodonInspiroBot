@@ -12,7 +12,6 @@ Pretty simple: the bot toots a random inspirational quote hourly from [InspiroBo
 
 - Python3
 - pip3
-- json
 - requests
 - logging
 - Inspiro
