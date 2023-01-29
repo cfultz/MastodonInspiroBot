@@ -27,3 +27,7 @@ Pretty simple: the bot toots a random inspirational quote hourly from [InspiroBo
 ## What if that doesn't work?
 
 It works for me. Sorry. Poke around and see what you may have missed. I tested it, it works.
+
+## Working bots using this repository
+
+[InspiroBot@cfultz.com](https://cfultz.com/@inspirobot)
